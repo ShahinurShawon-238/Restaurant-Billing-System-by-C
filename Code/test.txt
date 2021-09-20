@@ -1,0 +1,11 @@
+                        *****Welcome to take out*****
+                         ******Here is our menu******
+
+
+                     Items               Unit Price
+
+         1.        Burger                  250
+         2.        Pizza                   300
+         3.      Fried Rice                175
+         4.      Chicken Fry                90
+         5.      French Fry                 75

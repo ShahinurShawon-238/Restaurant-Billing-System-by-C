@@ -1,0 +1,18 @@
+
+	-->Welcome to Take Out<--
+
+	++Here Is your Bill++
+
+	 Burger                 2                      250                    500.00
+								 Total Price:  500.00
+								 Given Amount:   500
+								 Return Amount:  0.00 
+
+
+			*****Thanks for coming. Please come again*****
+
+
+
+
+
+
